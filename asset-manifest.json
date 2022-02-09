@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jat1729/cs124InClass6.git/static/css/main.073c9b0a.css",
-    "main.js": "/jat1729/cs124InClass6.git/static/js/main.efc584b6.js",
-    "static/js/787.369fb01d.chunk.js": "/jat1729/cs124InClass6.git/static/js/787.369fb01d.chunk.js",
-    "static/media/logo.svg": "/jat1729/cs124InClass6.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jat1729/cs124InClass6.git/index.html",
-    "main.073c9b0a.css.map": "/jat1729/cs124InClass6.git/static/css/main.073c9b0a.css.map",
-    "main.efc584b6.js.map": "/jat1729/cs124InClass6.git/static/js/main.efc584b6.js.map",
-    "787.369fb01d.chunk.js.map": "/jat1729/cs124InClass6.git/static/js/787.369fb01d.chunk.js.map"
+    "main.css": "/jat1729.github.io/cs124InClass6/static/css/main.073c9b0a.css",
+    "main.js": "/jat1729.github.io/cs124InClass6/static/js/main.dd6642d4.js",
+    "static/js/787.369fb01d.chunk.js": "/jat1729.github.io/cs124InClass6/static/js/787.369fb01d.chunk.js",
+    "static/media/logo.svg": "/jat1729.github.io/cs124InClass6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jat1729.github.io/cs124InClass6/index.html",
+    "main.073c9b0a.css.map": "/jat1729.github.io/cs124InClass6/static/css/main.073c9b0a.css.map",
+    "main.dd6642d4.js.map": "/jat1729.github.io/cs124InClass6/static/js/main.dd6642d4.js.map",
+    "787.369fb01d.chunk.js.map": "/jat1729.github.io/cs124InClass6/static/js/787.369fb01d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.efc584b6.js"
+    "static/js/main.dd6642d4.js"
   ]
 }
